@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fcae155-aa1b-4bcb-9da4-3be0c03b9e93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SFHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SFSignInPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SFSignInSignOutTest.java" afterDir="false" />
+    <list default="true" id="5fcae155-aa1b-4bcb-9da4-3be0c03b9e93" name="Changes" comment="Sign in/Sign out tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AccountPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SFHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SFSignInPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SFSignInSignOutTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +27,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="beta" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -57,6 +54,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/Users/serhii/IdeaProjects/SFtraining"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module",
+      "directory"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -126,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SFSignInSignOutTest.verifySi" />
-        <item itemvalue="TestNG.SFSignInSignOutTest" />
-        <item itemvalue="TestNG.SFSignInSignOutTest.verifySignInWorks" />
         <item itemvalue="TestNG.SFSignInSignOutTest.verifySignOutWorks" />
         <item itemvalue="TestNG.SFSignInSignOutTest.verifySignInWorksSignIn" />
+        <item itemvalue="TestNG.SFSignInSignOutTest.verifySignInWorks" />
+        <item itemvalue="TestNG.SFSignInSignOutTest.verifySi" />
+        <item itemvalue="TestNG.SFSignInSignOutTest" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +146,14 @@
       <option name="presentableId" value="Default" />
       <updated>1727431337414</updated>
     </task>
+    <task id="LOCAL-00001" summary="Sign in/Sign out tests">
+      <created>1727690461931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727690461932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,5 +166,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sign in/Sign out tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sign in/Sign out tests" />
   </component>
 </project>
