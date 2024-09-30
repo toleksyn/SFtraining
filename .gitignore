@@ -37,5 +37,5 @@ build/
 ### Mac OS ###
 .DS_Store
 
-### test1 ###
+### test ###
 src/main/java/test.java
